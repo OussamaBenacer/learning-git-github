@@ -1,4 +1,4 @@
-# ✅ Git Essentials Summary
+# 🧠 Git Essentials Summary
 
 ## 1️⃣ Start a Git Repository
 
